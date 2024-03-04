@@ -2,7 +2,7 @@
 # Mi nombre es Sergio Andres Leguizamo Vargas y esta es mi informacion
 ## Desarrolador de software
 ### Acerca de mi
-Estidio Analisis y desarrollo de sofware, tengo experiencia y conocimientos solidos en lenguajes de programcion como python y java
+Esticio en el SENA un tecnologo en Analisis y desarrollo de sofware, tengo experiencia y conocimientos solidos en lenguajes de programcion como python y java
 ### Experiencia
 - **Desarrollador de software**
   - *Duracion*: 6 meses
