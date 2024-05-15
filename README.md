@@ -9,7 +9,7 @@ Estudio en el SENA un tecnologo en Analisis y desarrollo de sofware, actualmente
  - *Institucion*: Misael pastrana borrero
  - *Año de graduacion*: 2023
  
- - **Tacnico en analisis y programacion de software**
+ - **Tecnico en analisis y programacion de software**
    - *Institucion*: SENA
    - *Año de graduacion*: 2023
      
