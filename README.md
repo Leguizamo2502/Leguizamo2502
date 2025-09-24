@@ -20,7 +20,7 @@ Estudio en el SENA un tecnologo en Analisis y desarrollo de sofware, actualmente
   -*Responsabilidades*: Diseño de  un software para inventario
 
 ### 💪Habilidades
-- **Lenguajes de programacion**: Javascript, TypeScript, CSharp, Java
+- **Lenguajes de programacion**: Javascript, TypeScript, Angular, CSharp, Java
 - **Certificaciones**: Tecnico en analisis y programacion de sofware
 - **Otras habilidades**: Trabajo en equipo, comunicacion, resolusion de problemas
 ### 📱Informacion de contacto
