@@ -1,29 +1,36 @@
 # Hola 👋
 # Mi nombre es Sergio Andres Leguizamo Vargas y esta es mi informacion
-## Desarrolador de software
+## Desarrollador de software
 ### Acerca de mi
-Estudio en el SENA un tecnologo en Analisis y desarrollo de sofware, actualmente estoy explorando el vasto universo del desarrollo de software. Aunque estoy en las primeras etapas de mi viaje, estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades en comprender conceptos sobre la programación.
+Graduado del tecnólogo en Análisis y Desarrollo de Software (ADSO) en el SENA y actualmente estudiante de Ingeniería de Software. Apasionado por el desarrollo de software y el aprendizaje continuo, enfocado en fortalecer mis conocimientos en programación, arquitectura de software y mejores prácticas.
 
 ### 📚Educacion 
+- **Ingenieria de software**
+  - *Institucion*: Corporacion Universitaria Iberoamericana
+  - *Estado*: En curso
+
+- **Tecnologo en analisis y desarrollo de software (ADSO)**
+  - *Institucion*: SENA
+
+- **Tecnico en programacion de software**
+  - *Institucion*: SENA
+  - *Año de graduacion*: 2023
+
 - **Bachiller**
- - *Institucion*: Misael pastrana borrero
- - *Año de graduacion*: 2023
- 
- - **Tecnico en analisis y programacion de software**
-   - *Institucion*: SENA
-   - *Año de graduacion*: 2023
-     
+  - *Institucion*: Misael pastrana borrero
+  - *Año de graduacion*: 2023
+
 ### ✅Experiencia
 - **Desarrollador de software**
   - *Duracion*: 6 meses
   - *Empresa*: Misael pastrana borrero
-  -*Responsabilidades*: Diseño de  un software para inventario
+  - *Responsabilidades*: Diseño y desarrollo de software para control de inventarios.
 
 ### 💪Habilidades
-- **Lenguajes de programacion**: Javascript, TypeScript, Angular, CSharp, Java
-- **Certificaciones**: Tecnico en analisis y programacion de sofware
-- **Otras habilidades**: Trabajo en equipo, comunicacion, resolusion de problemas
+- **Lenguajes de programacion y tecnologías**: C#, .NET, Java, JavaScript, TypeScript, Angular, SQL Server, Docker
+- **Certificaciones**: Tecnologo en analisis y desarrollo de software, Tecnico en programacion de software
+- **Otras habilidades**: Trabajo en equipo, comunicacion, resolucion de problemas
+
 ### 📱Informacion de contacto
 - 📧 **Correo electronico**: vargasleguizamo95@gmail.com
 - **Github**: Github.com/Leguizamo2502
-
