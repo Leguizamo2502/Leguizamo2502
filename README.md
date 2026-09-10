@@ -16,10 +16,6 @@ Graduado del tecnólogo en Análisis y Desarrollo de Software (ADSO) en el SENA 
   - *Institucion*: SENA
   - *Año de graduacion*: 2023
 
-- **Bachiller**
-  - *Institucion*: Misael pastrana borrero
-  - *Año de graduacion*: 2023
-
 ### ✅Experiencia
 - **Desarrollador de Software y Soporte de TI**
   - *Duracion*: Diciembre 2025 – Presente
