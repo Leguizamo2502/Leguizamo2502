@@ -11,6 +11,7 @@ Graduado del tecnólogo en Análisis y Desarrollo de Software (ADSO) en el SENA 
 
 - **Tecnologo en analisis y desarrollo de software (ADSO)**
   - *Institucion*: SENA
+  - *Año de graduacion*: 2026
 
 - **Tecnico en programacion de software**
   - *Institucion*: SENA
